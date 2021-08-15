@@ -1,0 +1,56 @@
+#title{
+    margin: 25px;
+}
+body { 
+    color: red;
+    background-color: cornsilk;
+}
+.black-border {
+    border: 5px solid black;
+}
+h1.black-border {
+     color: rgba(255, 81, 0, 0.705);
+}
+h2 {
+    font-size: large;
+    text-decoration: underline;
+}
+.Enjoy {
+    border: 5px solid brown;
+}
+h1.Hoofdtekst {
+    font-size: 60px;
+    margin: auto;
+    width: fit-content;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 25px;
+    height: 50px;
+    padding-top: 0px;
+}
+.aboutBackground {
+    background-image: url("Mountain.jpg");
+    background-color: #cccccc;
+    margin: 50px 30px 50px 30px;
+}
+.indexBackground{
+    background-image: url("LakeMountain.jpg");
+    padding: 20px;
+}
+.coupon {
+	width: 210px;
+	padding: 10px;
+	text-align: center;
+	border: 3px dashed #ccc; 
+    position: relative; 
+    top: 600px;
+    background-color: rgba(0, 0, 0, 0.692);
+}
+ul.Inline li{
+    display: inline;
+    padding: 10px;
+    padding-left: 0px;
+}
+.Inline{
+    padding-left: 0px;
+}
